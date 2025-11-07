@@ -3,4 +3,5 @@ git # Ingredients
 - Spring onions: £2.99
 - potato: £4.99
 # Instructions
+- shell the peas
 - put pease into a pen
